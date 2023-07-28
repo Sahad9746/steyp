@@ -1,5 +1,5 @@
 import React from 'react'
-import './techSchoo.css'
+import './techSchool.css'
 
 
 const TechSchoo = () => {
